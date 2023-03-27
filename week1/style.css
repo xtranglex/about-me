@@ -1,0 +1,116 @@
+.anchor{
+  font-family: monospace;
+  font-weight: bold;
+  font-size:25px;
+
+}
+
+.icon{
+  height: 20px;
+}
+
+.title{
+  font-family: monospace;
+}
+
+.me{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 270px;
+}
+
+.header{
+  color: pink;
+  background: url(./images/headerbg.jpg);
+  background-size: cover;
+
+  height: 600px;
+}
+
+.header1{
+  color: white;
+  text-decoration: underline;
+  font-family: monospace;
+ font-size: 40px;
+}
+
+
+.image1{
+  width: 200px;
+  
+}
+
+.image2{
+  width: 200px;
+  
+}
+
+.image3{
+  width: 200px;
+
+  
+  
+}
+
+.line{
+  height: 3px;
+  background-color:pink;
+  border: none;
+}
+
+.header2
+{
+  font-family: monospace;
+  font-size: 25px;
+  color: darkgray;
+  text-decoration: underline;
+}
+
+.unordered-list{
+  font-family: monospace;
+}
+.paragraph{
+  text-align: center;
+  font-family: monospace;
+}
+
+
+.footer{
+  background-color: rgb(255, 249, 253);
+  color: black;
+  height: 100px;
+}
+
+.data
+{
+  background-color: pink;
+}
+
+table, th, td {
+  border: 1px solid;
+font-family: monospace;
+}
+
+.header{
+  COLOR: white;
+  BACKGROUND-COLOR: pink;
+  text-align: center;
+  padding: 10px;
+}
+.contact {
+    text-decoration: underline;
+    font-family: monospace;
+  }
+.insta-icon{
+width:20px;
+}
+
+.email-icon{
+  width: 500px;
+}
+.images-box {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+
